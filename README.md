@@ -7,27 +7,26 @@ Este repositorio contiene dos partes: Teórico y Práctico, como parte de la pr�
 
 En este repositorio se encuentran los siguientes archivos:
 
+ ##Parte Práctica:
+ 
 - ejercicio1.java → Calculadora básica
 - ejercicio2.java → Contador de vocales y consonantes
 - ejercicio3.java → Inversor de cadena
+
+##Parte Teoría:
+
 - GIT.md → Resumen sobre comandos y uso de Git
 - PROGRAMACION.md → Conceptos básicos de programación
 
-## Cómo ejecutar
 
-Para compilar y ejecutar cada ejercicio desde la consola:
-
-
-## Cómo ejecutar
+## Cómo ejecutar parte Práctica:
 
 Los programas están desarrollados en Java, por lo tanto es necesario tener instalado **Java JDK** en el computador.
 
 Todos los ejercicios se ejecutan desde la consola o terminal, ubicándose en la carpeta donde se encuentran los archivos `.java`.
 
 
-# El procedimiento es el mismo para cada archivo:
-
-1. Compilar el programa:
+## El procedimiento es el mismo para cada archivo:
 
 Para compilar y ejecutar cada ejercicio:
 
@@ -42,6 +41,9 @@ java ejercicio2
 ### Ejercicio 3
 javac ejercicio3.java  
 java ejercicio3  
+
+
+
 
 
 Autor: Jessi-hue
